@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Digit_classification_project
+Version: 0.0.1
+Author: Anish Dahal
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: pillow
+Requires-Dist: joblib

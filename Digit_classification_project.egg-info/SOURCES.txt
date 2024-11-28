@@ -1,0 +1,14 @@
+README.md
+setup.py
+Digit_classification_project.egg-info/PKG-INFO
+Digit_classification_project.egg-info/SOURCES.txt
+Digit_classification_project.egg-info/dependency_links.txt
+Digit_classification_project.egg-info/requires.txt
+Digit_classification_project.egg-info/top_level.txt
+src/__init__.py
+src/app.py
+src/data_preprocess.py
+src/evaluation.py
+src/model.py
+src/prediction.py
+src/test.py

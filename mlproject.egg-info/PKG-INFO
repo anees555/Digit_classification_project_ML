@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Anish Dahal
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn

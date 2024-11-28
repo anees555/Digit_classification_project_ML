@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+fastapi
+uvicorn
+streamlit
+pillow
+joblib
